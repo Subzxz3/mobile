@@ -1,0 +1,17 @@
+.end {
+    background-image: url(./images/butterfly.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    overflow: auto;
+    position: relative;
+    max-width: 100%;
+    height: ;
+    
+}
+
+body{
+    background-image: url(./images/butterfly.jpg);
+}
